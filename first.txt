@@ -4,3 +4,4 @@ changefile1
 
 newb1
 newb2
+newb3
